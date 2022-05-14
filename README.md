@@ -1,6 +1,6 @@
-# Vite、Vue、firebase サンプルページ
+# Vite、Vue.js、Firebase サンプルページ
 
-> Vue.Js と firebase を使ったサンプルページです
+> Vue.Js と Firebase を使ったサンプルページです
 > - Firebase Authentication を使ったGoogle認証
 > - Firebase Realtime Database を使った、メモデータ保存機能
 
