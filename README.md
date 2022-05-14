@@ -27,10 +27,17 @@ Done. Now run:
   cd vite_vue_firebase
   npm install
   npm run dev
+
+npm install firebase
+npm install bootstrap-vue
 ```
 
 ## 実行方法
 
 ```
+npm install
+npm run dev
+
+http://localhost:3000/
 ```
 
